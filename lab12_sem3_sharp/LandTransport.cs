@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab12_sem3_sharp
 {
-    class LandTransport : Transport
+    class LandTransport : Transport //Производный класс
     {
         protected String name = " ";
         public LandTransport()
